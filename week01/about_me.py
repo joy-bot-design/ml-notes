@@ -1,3 +1,3 @@
 print("Joseph")
 print("kwahu")
-print("fufu")
+print("rice")
