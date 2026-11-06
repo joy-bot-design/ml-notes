@@ -1,0 +1,1 @@
+print("Bread", "GHS", 15, sep="---")
